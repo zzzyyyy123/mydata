@@ -4,7 +4,7 @@ web 部署
     1：直接放到webapps 文件下
     2：在server.xml <host>下添加<Context path"虚拟路径"  docBase="web项目放的绝对路劲"></Context>
     3：在conf 文件下进入Catalina 下的localhost 新建一个自定义 xx.xml 文件编辑  <Context   docBase="web项目放的绝对路劲"></Context>  访问xx即可
- 
+ 法国德国
 
 
 测试
