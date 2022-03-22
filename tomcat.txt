@@ -1,3 +1,5 @@
+23232
+
 web 部署
     1：直接放到webapps 文件下
     2：在server.xml <host>下添加<Context path"虚拟路径"  docBase="web项目放的绝对路劲"></Context>
